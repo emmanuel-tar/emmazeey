@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... building software both desktop and mobile application
 - 🌱 I’m currently learning ... kotlin
 - 💞️ I’m looking to collaborate on ... mobile app development
-- 📫 How to reach me ...
+- 📫 How to reach me ... tartoremmanuel13@gmail.com
 
 <!---
 emmazeey/emmazeey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
